@@ -1,0 +1,3 @@
+export const GET_INFO_SUCCESS = "GET_INFO_SUCCESS"
+export const GET_INFO_FAILURE = "GET_INFO_FAILURE"
+export const CLEAR_STATE = "CLEAR_STATE"
